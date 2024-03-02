@@ -19,9 +19,9 @@ jobs:
         with:
           submodules: true
           lfs: false
-      - uses: ruby/setup-ruby@v1
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '2.7'
           bundler-cache: true
       - name: Jekyll build
         run: bundle exec jekyll build

@@ -20,6 +20,7 @@ jobs:
           submodules: true
           lfs: false
       - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
       - name: Jekyll build

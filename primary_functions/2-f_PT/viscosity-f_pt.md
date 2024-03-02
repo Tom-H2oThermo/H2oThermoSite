@@ -1,14 +1,14 @@
 ---
 nav_order: 9
-title: 'Thermal Conductivity f(P, T)'
+title: 'Viscosity f(P, T)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=162'
+permalink: /primary_functions/viscosity-f_pt/
 ---
 
-Function Call “=H2o.PTK(pressure, temperature, units)”
+Function Call “=H2o.PTM(pressure, temperature, units)”
 
 **Input Parameters**
 
@@ -18,7 +18,7 @@ Function Call “=H2o.PTK(pressure, temperature, units)”
 
 **Return Value**
 
-- Thermal Conductivity: (0)mW/(m·K), (1) BTU/(hr⋅ft⋅°F), (2)mW/(m·K), (3)mW/(m·K)
+- Viscosity: (0)Pa·s, (1) lbf⋅s/ft², (2)cP, (3)cP
 
 Default values: Units: (0)SI
 

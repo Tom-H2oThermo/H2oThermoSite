@@ -2,10 +2,10 @@
 nav_order: 36
 title: 'Constant Volume Specific Heat f(T, Q)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=158'
+permalink: /primary_functions/constant-volume-specific-heat-f_tq/
 ---
 
 Function Call “=H2o.TQCv(temperature, quality, units)”

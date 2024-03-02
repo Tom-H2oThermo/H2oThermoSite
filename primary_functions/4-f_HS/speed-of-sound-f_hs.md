@@ -2,10 +2,10 @@
 nav_order: 22
 title: 'Speed of Sound f(H, S)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=121'
+permalink: /primary_functions/speed-of-sound-f_hs/
 ---
 
 Function Call “=H2o.HSW(enthalpy, entropy, units)”

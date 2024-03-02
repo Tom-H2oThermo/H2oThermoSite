@@ -2,10 +2,10 @@
 nav_order: 17
 title: 'Quality f(P, S)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=104'
+permalink: /primary_functions/quality-f_ps/
 ---
 
 Function Call “=H2o.PSQ(pressure, entropy, units)”

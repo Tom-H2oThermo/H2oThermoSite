@@ -2,10 +2,10 @@
 nav_order: 28
 title: 'Entropy f(P, Q)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=137'
+permalink: /primary_functions/entropy-f_pq/
 ---
 
 Function Call “=H2o.PQS(pressure, quality, units)”

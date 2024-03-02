@@ -2,10 +2,10 @@
 nav_order: 12
 title: 'Entropy f(P, H)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=74'
+permalink: /primary_functions/entropy-f_ph/
 ---
 
 Function Call “=H2o.PHS(pressure, enthalpy, units)”

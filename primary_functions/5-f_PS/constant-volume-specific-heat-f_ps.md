@@ -2,10 +2,10 @@
 nav_order: 15
 title: 'Constant Volume Specific Heat f(P, S)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=100'
+permalink: /primary_functions/constant-volume-specific-heat-f_ps/
 ---
 
 Function Call “=H2o.PSCv(pressure, entropy, units)”

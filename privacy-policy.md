@@ -2,10 +2,10 @@
 nav_order: 6
 title: 'Privacy Policy'
 
-parent: Home Page
+parent: 'Home Page'
 
 layout: page
-guid: 'https://h2othermoapp.azurewebsites.net/?page_id=3'
+permalink: /home-page/privacy-policy/
 ---
 
 ## Who we are

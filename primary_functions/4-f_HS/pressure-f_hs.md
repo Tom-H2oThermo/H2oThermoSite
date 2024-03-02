@@ -2,10 +2,10 @@
 nav_order: 18
 title: 'Pressure f(H, S)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=106'
+permalink: /primary_functions/pressure-f_hs/
 ---
 
 Function Call “=H2o.HSP(enthalpy, entropy, units)”

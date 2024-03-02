@@ -2,10 +2,10 @@
 nav_order: 16
 title: 'Speed of Sound f(P, S)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=102'
+permalink: /primary_functions/speed-of-sound-f_ps/
 ---
 
 Function Call “=H2o.PSW(pressure, entropy, units)”

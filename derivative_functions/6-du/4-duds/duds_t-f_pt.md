@@ -2,10 +2,10 @@
 nav_order: 130
 title: 'Partial Derivative of Internal Energy WRT Entropy at Constant Temperature f(P, T)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Derivative Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=331'
+permalink: /derivative_functions/duds_t-f_pt/
 ---
 
 Function Call “=H2o.dUdS\_T(pressure, temperature, units)”

@@ -2,10 +2,10 @@
 nav_order: 7
 title: 'Constant Pressure Specific Heat f(P, T)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=63'
+permalink: /primary_functions/constant-pressure-specific-heat-f_pt/
 ---
 
 Function Call “=H2o.PTCp(pressure, temperature, units, metastable)”

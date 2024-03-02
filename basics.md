@@ -2,10 +2,10 @@
 nav_order: 2
 title: 'The Basics'
 
-parent: Home Page
+parent: 'Home Page'
 
 layout: page
-
+permalink: /home-page/the_basics/
 ---
 
 THe H2O Steam Properties program is based upon the International Association for the Properties of Water and Steam (IAPWS) formulations for industrial use. The IAPWS most current documentation may be found on the IAPWS.org website. The following IAPWS documents were used in the program development and are referenced in this manual and in the programs interactive help files.
@@ -26,16 +26,19 @@ THe H2O Steam Properties program is based upon the International Association for
 
 All of the primary H2oProperties functions begin with “= H2o.” (upper or lower case). A list of the available H2oProperties functions will be shown. Excel Intellisense provides guidance to the user as the function is entered.
 
-<figure class="wp-block-image size-large">![](https://25ab01450ad5ffb8ebab-endpoint.azureedge.net/wpblob2117d982ba/wp-content/uploads/2023/12/image-1024x386.png)</figure>The letters following H2o, one or two depending on the function, indicate the inputs while the final letter or letters, one or two depending on the function, representing the desired result. For example, =H2o.PTH indicates the inputs are pressure (P) and temperature (T) and the desired result is enthalpy (H).
+![image](/assets/images/About1.png) <br>
 
-<figure class="wp-block-image size-full">![](https://25ab01450ad5ffb8ebab-endpoint.azureedge.net/wpblob2117d982ba/wp-content/uploads/2023/12/H2o-function-view-2.png)</figure>In the example above, the return thermodynamic parameter is shown along with the return parameter’s units of measure depending on whether the default SI units are used (0), US customary units (1), metric bara (2) or metric kPa (3).
+The letters following H2o, one or two depending on the function, indicate the inputs while the final letter or letters, one or two depending on the function, representing the desired result. For example, =H2o.PTH indicates the inputs are pressure (P) and temperature (T) and the desired result is enthalpy (H).  In the example above, the return thermodynamic parameter is shown along with the return parameter’s units of measure depending on whether the default SI units are used (0), US customary units (1), metric bara (2) or metric kPa (3).
 
-Once an opening parenthesis is entered, then the various input parameters are shown. The parameters in square brackets are optional. By default the units are SI and metastable conditions are false. When steam undergoes a sudden expansion in a steam turbine, passing from the superheated state to saturation conditions (region 4), the onset of moisture will be delayed until approximately the 5% (95% quality) steady state moisture conditions. This optional parameter may be of engineering use for saturated steam turbine applications.
+Once an opening parenthesis is entered, then the various input parameters are shown. The parameters in square brackets are optional. By default the units are SI and metastable conditions are false. When steam undergoes a sudden expansion in a steam turbine, passing from the superheated state to saturation conditions (region 4), the onset of moisture will be delayed until approximately the 5% (95% quality) steady state moisture conditions. This optional parameter may be of engineering use for saturated steam turbine applications.<br>
 
-<figure class="wp-block-image size-full">![](https://25ab01450ad5ffb8ebab-endpoint.azureedge.net/wpblob2117d982ba/wp-content/uploads/2023/12/H2o-function-view-3.png)</figure>By clicking on the *fx* to the left of formula bar, a detailed view of the function that provides guidance for each input parameter and the units for the returned parameter.
+![image](/assets/images/About2.png)<br>
+By clicking on the *fx* to the left of formula bar, a detailed view of the function that provides guidance for each input parameter and the units for the returned parameter.
 
-<figure class="wp-block-image size-full">![](https://25ab01450ad5ffb8ebab-endpoint.azureedge.net/wpblob2117d982ba/wp-content/uploads/2023/12/H2o-function-view-4-1.png)</figure>By clicking on the “Help on this function” link in the lower left of this Function Arguments window, a help page opens with additional information specific to this individual function.
+![image](/assets/images/About3.png)<br>
+By clicking on the “Help on this function” link in the lower left of this Function Arguments window, a help page opens with additional information specific to this individual function.
 
-<figure class="wp-block-image size-full">![](https://25ab01450ad5ffb8ebab-endpoint.azureedge.net/wpblob2117d982ba/wp-content/uploads/2023/12/H2o-function-view-5.png)</figure>If invalid input parameters are entered, an error message is returned to provide some guidance as to what the problem may be.
+![image](/assets/images/About3.png)<br>
+If invalid input parameters are entered, an error message is returned to provide some guidance as to what the problem may be.
 
-<figure class="wp-block-image size-full">![](https://25ab01450ad5ffb8ebab-endpoint.azureedge.net/wpblob2117d982ba/wp-content/uploads/2023/12/H2o-function-view-6.png)</figure>
+![image](/assets/images/About3.png)

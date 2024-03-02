@@ -1,12 +1,10 @@
 ---
 title: 'Enthalpy f(P, T)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=43'
-footnotes:
-    - ''
+permalink: /primary_functions/enthalpy-f_pt/
 ---
 
 **Function Call** “*=H2o.PTH(pressure, temperature, units, metastable)*“

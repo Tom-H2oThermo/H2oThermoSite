@@ -2,10 +2,10 @@
 nav_order: 11
 title: 'Temperature f(P, H)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=72'
+permalink: /primary_functions/temperature-f_ph/
 ---
 
 Function Call “=H2o.PHT(pressure, enthalpy, units)”

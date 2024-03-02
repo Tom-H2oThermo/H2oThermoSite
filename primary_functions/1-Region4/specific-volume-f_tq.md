@@ -2,10 +2,10 @@
 nav_order: 35
 title: 'Specific Volume f(T, Q)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=153'
+permalink: /primary_functions/specific-volume-f_tq/
 ---
 
 Function Call “=H2o.TQV(temperature, quality, units)”

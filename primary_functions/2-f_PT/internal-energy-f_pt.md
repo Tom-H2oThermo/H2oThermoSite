@@ -2,10 +2,10 @@
 nav_order: 4
 title: 'Internal Energy f(P, T)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=55'
+permalink: /primary_functions/internal-energy-f_pt/
 ---
 
 Function Call “=H2o.PTU(pressure, temperature, units, metastable)”

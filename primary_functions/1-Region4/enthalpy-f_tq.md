@@ -2,10 +2,11 @@
 nav_order: 32
 title: 'Enthalpy f(T, Q)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=147'
+permalink: /primary_functions/enthalpy-f_tq/
+
 ---
 
 Function Call “=H2o.TQH(temperature, quality, units)”

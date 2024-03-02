@@ -2,10 +2,10 @@
 nav_order: 31
 title: 'Constant Volume Specific Heat f(P, Q)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=143'
+permalink: /primary_functions/constant-volume-specific-heat-f_pq/
 ---
 
 Function Call “=H2o.PQCv(pressure, quality, units)”
@@ -18,7 +18,7 @@ Function Call “=H2o.PQCv(pressure, quality, units)”
 
 **Return Value**
 
-- Constant Pressure Specific Heat (0)kJ/(kg·K), (1)BTU/(lbm·°F), (2)kJ/(kg·°C), (3)kJ/(kg·°C)
+- Constant Volume Specific Heat (0)kJ/(kg·K), (1)BTU/(lbm·°F), (2)kJ/(kg·°C), (3)kJ/(kg·°C)
 
 Default values: Units: (0)SI
 

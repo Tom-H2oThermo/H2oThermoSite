@@ -2,10 +2,10 @@
 nav_order: 19
 title: 'Temperature f(H, S)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=108'
+permalink: /primary_functions/temperature-f_hs/
 ---
 
 Function Call “=H2o.HST(enthalpy, entropy, units)”

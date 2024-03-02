@@ -2,15 +2,16 @@
 nav_order: 5
 title: 'Evaporative Cooling'
 
-parent: Examples
-grand_parent: home-page
+parent: 'Examples'
+grand_parent: 'Home Page'
 layout: page
-guid: 'http://hfg.wev.mybluehost.me/?page_id=429'
+permalink: /examples/evaporative-cooling/
 ---
 
 The following graph, developed using the H2o Properties for Excel add-in, shows the difference in enthalpy between the moisture in the air and 0% quality saturated liquid, both calculated at the ambient temperature, for various relative humidities. This is useful for purposes such as sizing of a wet cooling tower. The dryer the air, the greater the potential for evaporative cooling.
 
-<figure class="wp-block-image size-large is-resized">![](/wp-content/uploads/2023/12/Cooling_Tower-1024x744.png)</figure>Relative humidity is defined as RH=P<sub>w</sub>/P<sub>ws</sub> where P<sub>w</sub> is the water vapor pressure in the air and P<sub>ws</sub> is the vapor pressure in the air at 100% relative humidity, when the air cannot hold any more moisture.
+![image](/assets/images/Cooling_Tower.png)
+Relative humidity is defined as RH=P<sub>w</sub>/P<sub>ws</sub> where P<sub>w</sub> is the water vapor pressure in the air and P<sub>ws</sub> is the vapor pressure in the air at 100% relative humidity, when the air cannot hold any more moisture.
 
 Example: Assume an ambient temperature of 25 <sup>o</sup>C and a relative humidity of 45%, using metric bara units
 

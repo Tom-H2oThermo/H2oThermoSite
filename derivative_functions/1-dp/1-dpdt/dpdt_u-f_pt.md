@@ -2,10 +2,10 @@
 nav_order: 39
 title: 'Partial Derivative of Pressure WRT Temperature at Constant Internal Energy f(P, T)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Derivative Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=169'
+permalink: /derivative_functions/dpdt_u-f_pt/
 ---
 
 Function Call “=H2o.dPdT\_U(pressure, temperature, units)”

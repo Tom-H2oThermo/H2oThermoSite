@@ -2,10 +2,10 @@
 nav_order: 27
 title: 'Enthalpy f(P, Q)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=123'
+permalink: /primary_functions/enthalpy-f_pq/
 ---
 
 Function Call “=H2o.PQH(pressure, quality, units)”

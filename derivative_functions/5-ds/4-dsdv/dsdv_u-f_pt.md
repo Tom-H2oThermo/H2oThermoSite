@@ -2,10 +2,10 @@
 nav_order: 116
 title: 'Partial Derivative of Entropy WRT Volume at Constant Internal Energy f(P, T)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Derivative Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=401'
+permalink: /derivative_functions/dsdv_u-f_pt/
 ---
 
 Function Call “=H2o.dSdV\_U(pressure, temperature, units)”

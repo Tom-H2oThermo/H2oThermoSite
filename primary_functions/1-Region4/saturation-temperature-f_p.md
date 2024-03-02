@@ -2,10 +2,10 @@
 nav_order: 25
 title: 'Saturation Temperature f(P)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=34'
+permalink: /primary_functions/saturation-temperature-f_p/
 ---
 
 Returns the Saturation Temperature given a Pressure

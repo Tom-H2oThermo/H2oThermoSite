@@ -2,10 +2,10 @@
 nav_order: 34
 title: 'Internal Energy f(T, Q)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=151'
+permalink: /primary_functions/internal-energy-f_tq/
 ---
 
 Function Call “=H2o.TQU(temperature, quality, units)”

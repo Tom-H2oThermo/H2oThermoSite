@@ -2,10 +2,10 @@
 nav_order: 143
 title: 'Partial Derivative of Volume WRT Temperature at Constant Entropy f(P, T)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Derivative Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=263'
+permalink: /derivative_functions/dvdt_s-f_pt/
 ---
 
 Function Call “=H2o.dVdT\_S(pressure, temperature, units)”

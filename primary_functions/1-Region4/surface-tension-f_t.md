@@ -2,10 +2,10 @@
 nav_order: 26
 title: 'Surface Tension f(T)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=38'
+permalink: /primary_functions/surface-tension-f_t/
 ---
 
 Returns the Surface Tension given a Temperature

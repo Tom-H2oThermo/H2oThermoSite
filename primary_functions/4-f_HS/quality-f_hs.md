@@ -2,10 +2,10 @@
 nav_order: 23
 title: 'Quality f(H, S)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=110'
+permalink: /primary_functions/quality-f_hs/
 ---
 
 Function Call “=H2o.HSQ(enthalpy, entropy, units)”

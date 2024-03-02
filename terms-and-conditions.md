@@ -2,10 +2,10 @@
 nav_order: 7
 title: 'Terms and Conditions'
 
-parent: Home Page
+parent: 'Home Page'
 
 layout: page
-guid: 'https://h2othermo.com/?page_id=547'
+permalink: /home-page/terms-and-conditions/
 ---
 
 **Agreement between User and https://H2oThermo.com**

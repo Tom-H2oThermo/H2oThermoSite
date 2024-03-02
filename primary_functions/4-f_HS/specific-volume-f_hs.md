@@ -2,10 +2,10 @@
 nav_order: 21
 title: 'Specific Volume f(H, S)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=114'
+permalink: /primary_functions/specific-volume-f_hs/
 ---
 
 Function Call “=H2o.HSV(enthalpy, entropy, units)”

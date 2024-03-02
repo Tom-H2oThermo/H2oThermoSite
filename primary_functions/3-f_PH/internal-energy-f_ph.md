@@ -2,10 +2,10 @@
 nav_order: 13
 title: 'Internal Energy f(P, H)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=76'
+permalink: /primary_functions/internal-energy-f_ph/
 ---
 
 Function Call “=H2o.PHU(pressure, enthalpy, units)”

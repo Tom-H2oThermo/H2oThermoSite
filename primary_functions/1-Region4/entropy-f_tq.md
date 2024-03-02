@@ -2,10 +2,10 @@
 nav_order: 33
 title: 'Entropy f(T, Q)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=149'
+permalink: /primary_functions/entropy-f_tq/
 ---
 
 Function Call “=H2o.TQS(temperature, quality, units)”

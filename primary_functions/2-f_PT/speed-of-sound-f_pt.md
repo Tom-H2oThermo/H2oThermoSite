@@ -2,10 +2,10 @@
 nav_order: 6
 title: 'Speed of Sound f(P, T)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=68'
+permalink: /primary_functions/speed-of-sound-f_pt/
 ---
 
 Function Call “=H2o.PTW(pressure, temperature, units, metastable)”

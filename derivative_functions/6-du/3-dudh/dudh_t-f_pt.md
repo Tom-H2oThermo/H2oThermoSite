@@ -2,10 +2,10 @@
 nav_order: 126
 title: 'Partial Derivative of Internal Energy WRT Enthalpy at Constant Temperature f(P, T)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Derivative Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=322'
+permalink: /derivative_functions/dudh_t-f_pt/
 ---
 
 Function Call “=H2o.dUdH\_T(pressure, temperature, units)”

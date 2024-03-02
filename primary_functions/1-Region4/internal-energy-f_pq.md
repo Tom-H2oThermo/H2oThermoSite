@@ -2,10 +2,10 @@
 nav_order: 29
 title: 'Internal Energy f(P, Q)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=135'
+permalink: /primary_functions/internal-energy-f_pq/
 ---
 
 Function Call “=H2o.PQU(pressure, quality, units)”

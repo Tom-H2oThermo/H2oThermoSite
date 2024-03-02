@@ -2,10 +2,10 @@
 nav_order: 14
 title: 'Specific Volume f(P, H)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Primary Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=78'
+permalink: /primary_functions/specific-volume-f_ph/
 ---
 
 Function Call “=H2o.PHV(pressure, enthalpy, units)”

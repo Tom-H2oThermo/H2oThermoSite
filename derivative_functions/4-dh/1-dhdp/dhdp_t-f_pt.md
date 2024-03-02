@@ -2,10 +2,10 @@
 nav_order: 77
 title: 'Partial Derivative of Enthalpy WRT Pressure at Constant Temperature f(P, T)'
 
-parent: Functions
-grand_parent: home-page
+parent: 'Derivative Functions'
+grand_parent: 'Home Page'
 layout: minimal
-guid: 'http://hfg.wev.mybluehost.me/?page_id=337'
+permalink: /derivative_functions/dhdp_t-f_pt/
 ---
 
 Function Call “=H2o.dHdP\_T(pressure, temperature, units)”

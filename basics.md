@@ -38,7 +38,7 @@ By clicking on the *fx* to the left of formula bar, a detailed view of the funct
 ![image](/assets/images/About3.png)<br>
 By clicking on the “Help on this function” link in the lower left of this Function Arguments window, a help page opens with additional information specific to this individual function.
 
-![image](/assets/images/About3.png)<br>
+![image](/assets/images/About4.png)<br>
 If invalid input parameters are entered, an error message is returned to provide some guidance as to what the problem may be.
 
-![image](/assets/images/About3.png)
+![image](/assets/images/About5.png)

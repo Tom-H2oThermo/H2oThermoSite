@@ -5,7 +5,7 @@ title: 'Partial Derivative of Volume WRT Internal Energy at Constant Pressure f(
 parent: 'Derivative Functions'
 grand_parent: 'Home Page'
 layout: minimal
-gpermalink: /derivative_functions/dvdu_p-f_pt/
+permalink: /derivative_functions/dvdu_p-f_pt/
 ---
 
 Function Call “=H2o.dVdU\_P(pressure, temperature, units)”

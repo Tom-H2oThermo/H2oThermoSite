@@ -4,7 +4,7 @@ title: 'Saturation Pressure f(T)'
 
 parent: 'Primary Functions'
 grand_parent: about
-layout: about
+layout: minimal
 permalink: /primary_functions/saturation-pressure-f_t/
 ---
 

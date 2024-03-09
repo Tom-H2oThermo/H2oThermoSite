@@ -16,12 +16,13 @@ jobs:
     name: Build and Deploy Job
     steps:
       - uses: actions/checkout@v3
-        with:
+        with:          
           submodules: true
           lfs: false
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
+          ruby-version: 3.0
           bundler-cache: true
       - name: Jekyll build
         run: bundle exec jekyll build

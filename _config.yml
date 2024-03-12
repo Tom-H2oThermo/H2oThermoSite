@@ -33,7 +33,7 @@ theme: just-the-docs
 plugins:
   - jekyll-feed
 
-logo: "/assets/images/H2oLogo.png"
+logo: "/assets/images/H2oLogo350.png"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

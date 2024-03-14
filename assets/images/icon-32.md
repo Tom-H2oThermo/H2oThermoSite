@@ -1,5 +1,4 @@
 ---
-nav_order: 5
 title: 'Icon32'
 permalink: /Icon32/
 ---

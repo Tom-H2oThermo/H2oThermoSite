@@ -1,5 +1,4 @@
 ---
-nav_order: 5
 title: 'Icon80'
 permalink: /Icon80/
 ---

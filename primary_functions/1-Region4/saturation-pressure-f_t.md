@@ -3,7 +3,7 @@ nav_order: 24
 title: 'Saturation Pressure f(T)'
 
 parent: 'Primary Functions'
-grand_parent: about
+grand_parent: 'Home Page'
 layout: minimal
 permalink: /primary_functions/saturation-pressure-f_t/
 ---
